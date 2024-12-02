@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am Shengqi Wu
+``````
+``Computer Engineering & Math-CS student @UCSD``
 
 <!--
 **ShengqiWu2004/ShengqiWu2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
