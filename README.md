@@ -2,7 +2,7 @@
 
 `Computer Engineering & Math-CS student @UCSD`
 
- Thank you very much for viewing my profile! Let me tell you a little more about myself.
+ Thank you for viewing my profile! Let me tell you a little more about myself.
 <!--
 **ShengqiWu2004/ShengqiWu2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
